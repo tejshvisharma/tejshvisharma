@@ -2,11 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tejshvisharma&label=Profile%20Views&color=0e75b6&style=flat)
 
-## 🚀 About Me
-💻 Aspiring **Full-Stack Developer** passionate about building modern, scalable, and user-friendly web applications.  
-🌱 Currently diving deep into **Node.js, Express, React, and cloud deployment**.  
-⚡ Exploring **DevOps tools, real-time apps, and system design**.  
-📖 I love learning in public and sharing my projects as I grow in my developer journey.  
+# 👨‍💻 Passionate Full-Stack Developer | Turning Ideas into Interactive Web Experiences
+
 
 ---
 
@@ -82,8 +79,13 @@
 ---
 
 ## 🌍 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejshvisharma)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](#)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
+## 📬 Let's Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mahatejshvi-vareny-swami-65405a296)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejshvisharma27@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tejshvisharma)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/yourusername](https://x.com/tejshvisharma))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)  
+  
 
 ✨ *“Code. Learn. Share. Repeat.”*
