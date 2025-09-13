@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tejshvi Sharma  
+# 👋 Hi, I'm Mahatejshvi Vareny Swami
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tejshvisharma&label=Profile%20Views&color=0e75b6&style=flat)
 
